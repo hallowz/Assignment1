@@ -1,0 +1,17 @@
+E:\Programs\My Programs\CSharpReview\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.csproj.AssemblyReference.cache
+E:\Programs\My Programs\CSharpReview\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\My Programs\CSharpReview\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.AssemblyInfoInputs.cache
+E:\Programs\My Programs\CSharpReview\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.AssemblyInfo.cs
+E:\Programs\My Programs\CSharpReview\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.csproj.CoreCompileInputs.cache
+E:\Programs\My Programs\CSharpReview\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.exe
+E:\Programs\My Programs\CSharpReview\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.deps.json
+E:\Programs\My Programs\CSharpReview\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.runtimeconfig.json
+E:\Programs\My Programs\CSharpReview\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.runtimeconfig.dev.json
+E:\Programs\My Programs\CSharpReview\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.dll
+E:\Programs\My Programs\CSharpReview\CSharpReview\bin\Debug\netcoreapp3.1\CSharpReview.pdb
+E:\Programs\My Programs\CSharpReview\CSharpReview\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Programs\My Programs\CSharpReview\CSharpReview\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Programs\My Programs\CSharpReview\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.csproj.CopyComplete
+E:\Programs\My Programs\CSharpReview\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.dll
+E:\Programs\My Programs\CSharpReview\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.pdb
+E:\Programs\My Programs\CSharpReview\CSharpReview\obj\Debug\netcoreapp3.1\CSharpReview.genruntimeconfig.cache
