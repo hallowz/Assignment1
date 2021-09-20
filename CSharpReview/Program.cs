@@ -7,12 +7,6 @@ namespace A1
 	{
 		static void Main(string[] args)
 		{
-			List<int> seq = new List<int> { 3, 4, 3, 2, 3, 7, 8, 9, 4, 3, 2 };
-			List<int> subseq = new List<int> { 3, 2, 3, 7, 8 };
-			bool isSubSeq = SubsequenceFinder.IsValidSubsequeuce(seq, subseq);
-            Console.WriteLine(isSubSeq);
-
-			/*
 			Console.WriteLine("Enter the number of cards to pick: ");
 			string line = Console.ReadLine();
 			if (int.TryParse(line, out int numCards))
@@ -26,7 +20,6 @@ namespace A1
 			{
 				Console.WriteLine("Please enter a valid number.");
 			}
-			*/
 		}
 	}
 
@@ -125,16 +118,16 @@ namespace A1
             switch (suit)
             {
 				case "1":
-					suit = "Spades";
+					suit = "Clubs";
 					break;
 				case "2":
-					suit = "Clubs";
+					suit = "Diamonds";
 					break;
 				case "3":
 					suit = "Hearts";
 					break;
 				case "4":
-					suit = "Diamonds";
+					suit = "Spades";
 					break;
             }
 			return suit;
